@@ -23,6 +23,10 @@ public class ExpManager : MonoBehaviour {
         DisableChildren ();
 	}
 
+    void Update () {
+        Debug.developerConsoleVisible = false;
+    }
+
     public void SetList (int input)
     {
         curGameObj = null;
