@@ -1,2 +1,0 @@
-D:\AlbertSummer\NaturalScene\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-D:\AlbertSummer\NaturalScene\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
