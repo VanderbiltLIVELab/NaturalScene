@@ -37,7 +37,7 @@ The floating text UI is located to the front-right of the subject. It indicates:
 - Current trial number (1 - 30)
 - Whether a `Reset` was performed
 
-None of these should be noticeable to the subject during the trials. The debug text shall be removed in future versions where Anchor and Release features function properly.
+None of these should be noticeable to the subject during the trials. The debug text is now removed since Anchor and Release commands are no longer supported.
 
 ### Voice commands
 
