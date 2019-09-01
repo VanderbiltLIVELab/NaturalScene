@@ -19,7 +19,7 @@ HoloLens should be facing the area where the subject is supposed to be facing wh
 
 Subject should stand at a fixed location without moving until the end of all trials. Floating texts to the right of the subject indicate the list and trial number that the subject is currently at. If necessary, subject is to be asked his/her current list and trial number at any point in case of error. The texts also indicate whether a `Reset` command was executed.
 
-Each list contains 30 trials in the order recorded in [NaturalSceneExpOrder.xlsx](/NaturalSceneExpOrder.xlsx). When ready, subject should say `List One` or whatever list number he/she is to be tested. Saying `Next` will begin, navigate through, and ultimately end the trials in a given order depending on the current list. For each trial, subject should indicate what object it is and an estimation of the object's distance from himself/herself. The experiment supervisor is free to determine how many lists he/she wants in a session, but a minimum of three is recommended.
+Each list contains 30 trials in the order recorded in [NaturalSceneExpOrder.xlsx](/NaturalSceneExpOrder.xlsx). When ready, subject should say `List One` or whatever list number he/she is to be tested. Saying `Next` will begin, navigate through, and ultimately end the trials in a given order depending on the current list. For each trial, subject should indicate what object it is, an estimation of the object's height, and the object's distance from himself/herself. The experiment supervisor is free to determine how many lists he/she wants in a session, but a minimum of three is recommended.
 
 ### Objects
 
