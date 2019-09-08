@@ -66,3 +66,7 @@ Subject is allowed to control the experiment by saying certain keywords. Support
 ## Credits
 
 This project is made under supervision of Professor Robert E. Bodenheimer at Vanderbilt University EECS Department, in collaboration with Sarah Creem-Regeher, Jeanine Stefanucci and Holly Gagnon at the University of Utah Department of Psychology. Special thanks to Lauren E. Buck at Vanderbilt EECS Department for development advices, Taylor Smith who offered code for positioning objects, and Carlos Salas who assisted to test the program.
+
+## References
+
+- Rosales, C. S., Pointon, G., Adams, H., Stefanucci, J., Creem-Regehr, S., Thompson, W. B., & Bodenheimer, B. (2019, March). Distance Judgments to On-and Off-Ground Objects in Augmented Reality. In 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR) (pp. 237-243). IEEE.
